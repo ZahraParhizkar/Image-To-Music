@@ -114,7 +114,7 @@ pycparser==2.23
 pydantic==2.12.3
 pydantic_core==2.41.4
 pydeck==0.9.1
-pydub==0.25.1
+pydub
 Pygments==2.19.2
 pyloco==0.0.139
 pyod==2.0.5
@@ -196,3 +196,4 @@ xyzservices==2025.10.0
 yellowbrick==1.5
 
 zipp==3.23.0
+
