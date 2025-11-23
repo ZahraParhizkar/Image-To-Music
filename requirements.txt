@@ -194,4 +194,5 @@ xlrd==2.0.2
 xxhash==3.6.0
 xyzservices==2025.10.0
 yellowbrick==1.5
+
 zipp==3.23.0
